@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MonoAbstract
-- 👀 I’m interested in video games and anything internet-related.
-- 🌱 I’m currently learning Javascript and SQL.
-- 💞️ I’m looking to collaborate on some website building perhaps.
-- 📫 How to reach me: @QuadCoffee on Twitter
+- 🙂 Henlo, am MonoAbstract!
+- 🎓 Currently a University student studying Computer Science.
+- 🕹 Very, very, VERY into fighting games, mostly Tekken.
+- 🗡 I also play a lot of Final Fantasy XIV...
+- 💻 Hoping to contribute to some open-source projects.
+> Sorry for emoji spam, heard it helps with bios.
 
 <!---
 MonoAbstract/MonoAbstract is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
